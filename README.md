@@ -49,7 +49,5 @@ The analysis provides:
 
 <img width="918" height="486" alt="image" src="https://github.com/user-attachments/assets/dcee4294-5118-4596-b3c7-9cc4060116ad" />
 
----
 
-## 📌 Dashboard Preview  
-![Vendor Performance Dashboard](b7e73457-226f-4bdc-95c9-b9db46b51ee3.png)
+
